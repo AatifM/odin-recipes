@@ -45,9 +45,6 @@ Through this project, I have gained hands-on experience with:
 - Implement responsive design
 - Include images for each recipe
 
-## 📜 License
-This project is open-source and available under the MIT License.
-
 ---
 👨‍💻 Made with ❤️ as part of The Odin Project!
 
