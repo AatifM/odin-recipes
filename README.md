@@ -43,7 +43,6 @@ Through this project, I have gained hands-on experience with:
 ## 📝 Future Improvements
 - Add CSS for better styling
 - Implement responsive design
-- Include images for each recipe
 
 ---
 👨‍💻 Made with ❤️ as part of The Odin Project!
