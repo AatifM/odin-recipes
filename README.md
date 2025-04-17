@@ -33,6 +33,8 @@ odin-recipes/
    cd odin-recipes
    ```
 3. Open `index.html` in your preferred web browser.
+   
+5. Or check out the live preview: https://aatifm.github.io/odin-recipes/
 
 ## 📖 Learning Outcomes
 Through this project, I have gained hands-on experience with:
